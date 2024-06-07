@@ -28,7 +28,7 @@
 ---
 
 # Github Stats  
-
+![Metrics](https://metrics.lecoq.io/5yndr0m?template=classic&lines=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Asia%2FColombo)
 ![Syndrom's github stats](https://github-stats-alpha.vercel.app/api?username=5yndr0m&show_icons=true&theme=dark) &nbsp;
 
 <a href="https://github.com/5yndr0m/github-readme-stats">
