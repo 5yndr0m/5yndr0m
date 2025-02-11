@@ -5,7 +5,8 @@
 * Reach me 👉 **sdilanjana18@gmail.com** 
 
 # ToolStack
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox3.svg"><img src="https://ziadoua.github.io/m2-Markdown-Badges/badges/Windows/windows2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit2.svg">
+
 
 
 
@@ -41,7 +42,6 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg">
