@@ -52,9 +52,25 @@ Discovered Open Ports:
 [Process completed]
 ```
 ---
-  
-![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only)  
-![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+# Github Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=5yndr0m&style=flat-square" align="center" />
+</div>
+
+<!-- ![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
 ---
 
