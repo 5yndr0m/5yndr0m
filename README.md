@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋, I'm Senal Dilanjana</h1>
-<h3 align="center">Programming Noob 👶 | Gamer 🎮 | Shitposter 📱 | Reader 📚 </h3>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=5yndr0m&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 * Currently studying web development, networking, UI designing, and cybersecurity(self-studying). 🎓 
 * Willing to collaborate on related projects. ✋ 
