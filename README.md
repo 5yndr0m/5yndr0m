@@ -1,29 +1,54 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=5yndr0m&data=followers,repositories,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
-* Currently studying web development, networking, UI designing, and cybersecurity(self-studying). 🎓 
-* Willing to collaborate on related projects. ✋ 
-* Reach me 👉 **sdilanjana18@gmail.com** 
+```bash
+┌──(student㉿dev)-[~/github/profile]
+└─# whoami
+[>] BSc IT Undergraduate | Linux Enthusiast | Aspiring DevOps Engineer
 
-# ToolStack
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg">  
+┌──(student㉿dev)-[~/github/profile]
+└─# cat about.txt
+- 🎓 Currently pursuing BSc in Information Technology
+- 🐧 Passionate about Linux administration and automation
+- 🔐 Learning cybersecurity fundamentals and best practices
+- 🚀 Building expertise in DevOps methodologies and tools
+- 💡 Always exploring new technologies and solutions
 
-# TechStack
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg">
+┌──(student㉿dev)-[~/github/profile]
+└─# tree skills/
+skills/
+├── tools
+├── programming
+└── certifications_pursuing
 
+┌──(student㉿dev)-[~/github/profile]
+└─# cat skills/tools
+[Linux]         : Arch, Debian
+[Tools]         : Obsidian, Neovim, Zed, Zen
+[Containers]    : Docker 
+[Version Control]: GitHub
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
+┌──(student㉿dev)-[~/github/profile]
+└─# cat skills/programming
+[Languages]     : JavaScript, HTML, CSS, C
+[Learning]      : Python, Bash, Lua, PHP, Java, Rust, Go, 
 
-<a href="https://www.linkedin.com/in/senalkandanaarachchi">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />
-</a>
-<a href="https://github.com/5yndr0m">
-  <img align="left" alt="Github" width="22px" src="https://cdn.simpleicons.org/github/black/white" />
-</a>
-<a href="https://www.facebook.com/senal.dilanjana.54/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/black/white" />
-</a>
-<br>
+┌──(student㉿dev)-[~/github/profile]
+└─# cat skills/certifications_pursuing
+[Current Focus] : Linux Essentials
+[Acquired]      : Null
 
+┌──(student㉿dev)-[~/github/profile]
+└─# nmap -sC -sV --open github.com/5yndr0m
+Starting Nmap scan...
+Discovered Open Ports:
+* 📫 Email: sdilanjana21@gmail.com
+* 💼 LinkedIn: linkedin.com/in/senalkandanaarachchi
+
+┌──(student㉿dev)-[~/github/profile]
+└─# echo "Let's connect and build something amazing together!"
+
+[Process completed]
+```
 
 # Github Stats  
 ![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only)
