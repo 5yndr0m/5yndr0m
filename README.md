@@ -53,16 +53,10 @@ Discovered Open Ports:
 ```
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="left" src="https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img align="right" src="https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=5yndr0m&style=flat-square" align="center" />
