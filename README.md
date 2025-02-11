@@ -1,5 +1,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=5yndr0m&data=followers,repositories,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
+---
+
 ```bash
 ┌──(student㉿dev)-[~/github/profile]
 └─# whoami
@@ -49,10 +51,12 @@ Discovered Open Ports:
 
 [Process completed]
 ```
-
-# Github Stats  
+---
+  
 ![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=5yndr0m&style=flat-square" align="center" />
