@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=5yndr0m&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=5yndr0m&data=followers,repositories,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 * Currently studying web development, networking, UI designing, and cybersecurity(self-studying). 🎓 
 * Willing to collaborate on related projects. ✋ 
