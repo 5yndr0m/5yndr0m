@@ -26,13 +26,13 @@ skills/
 └─# cat skills/tools
 [Linux]         : Arch, Debian
 [Tools]         : Obsidian, Neovim, Zed, Zen
-[Containers]    : Docker 
+[Containers]    : Docker
 [Version Control]: GitHub
 
 ┌──(student㉿dev)-[~/github/profile]
 └─# cat skills/programming
 [Languages]     : JavaScript, HTML, CSS, C
-[Learning]      : Python, Bash, Lua, PHP, Java, Rust, Go, 
+[Learning]      : Python, Bash, Lua, PHP, Java, Rust, Go,
 
 ┌──(student㉿dev)-[~/github/profile]
 └─# cat skills/certifications_pursuing
@@ -53,7 +53,6 @@ Discovered Open Ports:
 ```
 ---
 
-# Github Stats
 <table>
   <tr>
     <td>
@@ -71,9 +70,3 @@ Discovered Open Ports:
 
 <!-- ![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=5yndr0m&style=flat-square" align="center" />
-</div> 
