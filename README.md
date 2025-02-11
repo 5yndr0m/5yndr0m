@@ -53,7 +53,7 @@ Discovered Open Ports:
 ```
 ---
   
-![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only)      
+![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/overview.svg#gh-dark-mode-only)  
 ![](https://raw.githubusercontent.com/5yndr0m/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
